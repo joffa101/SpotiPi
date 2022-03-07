@@ -1,5 +1,5 @@
 # SpotiPi
-Raspberry Pi Zero w Spotify Player
+##Raspberry Pi Zero w Spotify Player
 
 
 Uses this repo
@@ -14,7 +14,7 @@ https://github.com/dtcooper/raspotify/releases/tag/0.31.8.1
 Then did:
 dpkg -i https://github.com/dtcooper/raspotify/releases/download/0.31.8.1/raspotify_0.31.8.1.librespot.v0.3.1-54-gf4be9bb_armhf.deb
 
-Then Setup Audio:
+##Then Setup Audio:
 https://www.raspberrypi-spy.co.uk/2019/06/using-a-usb-audio-device-with-the-raspberry-pi/
 
 Set USB Audio as Default Audio Device
